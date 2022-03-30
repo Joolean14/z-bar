@@ -21,10 +21,10 @@ body::after {
     bottom: 0;
     right: 0;
     background: url('./assets/Cover-fb.jpg');
-    background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
     z-index: -1;
+    background-repeat: no-repeat;
 
 }
 
@@ -71,10 +71,10 @@ body::after {
         bottom: 0;
         right: 0;
         background: url('./assets/cover-mobile.jpg');
-        background-repeat: no-repeat;
         background-position: center;
         background-size: 100% 100%;
         z-index: -1;
+        background-repeat: no-repeat;
     
     }
 
